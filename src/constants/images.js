@@ -12,11 +12,11 @@ import overlaybg from '../assets/overlaybg.png';
 import spoon from '../assets/spoon.svg';
 import welcome from '../assets/welcome.png';
 import findus from '../assets/findus.png';
-import laurels from '../assets/laurels.png';
-import award01 from '../assets/award01.png';
-import award02 from '../assets/award02.png';
-import award03 from '../assets/award03.png';
-import award05 from '../assets/award05.png';
+import salmon from '../assets/salmon.jpg';
+import star1 from '../assets/star1.png';
+import star2 from '../assets/star2.png';
+import star3 from '../assets/star3.png';
+import star4 from '../assets/star4.png';
 import Sean from '../assets/Sean.png';
 import quote from '../assets/quote.png';
 import elite from '../assets/elite.png';
@@ -36,11 +36,11 @@ export default {
   spoon,
   welcome,
   findus,
-  laurels,
-  award01,
-  award02,
-  award03,
-  award05,
+  salmon,
+  star1,
+  star2,
+  star3,
+  star4,
   Sean,
   quote,
   elite,

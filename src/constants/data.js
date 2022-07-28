@@ -58,24 +58,24 @@ const cocktails = [
 
 const awards = [
   {
-    imgUrl: images.award02,
-    title: 'Bib Gourmond',
-    subtitle: 'Lorem ipsum dolor sit amet, consectetur.',
+    imgUrl: images.star1,
+    title: 'Decoración',
+    subtitle: 'Armonía entre un ambiente clásico y moderno',
   },
   {
-    imgUrl: images.award01,
-    title: 'Rising Star',
-    subtitle: 'Lorem ipsum dolor sit amet, consectetur.',
+    imgUrl: images.star2,
+    title: 'Servicio',
+    subtitle: 'Velocidad y Energía',
   },
   {
-    imgUrl: images.award05,
-    title: 'AA Hospitality',
-    subtitle: 'Lorem ipsum dolor sit amet, consectetur.',
+    imgUrl: images.star3,
+    title: 'Hospitalidad',
+    subtitle: 'Tratamos a nuestros clientes como a nuestra familia',
   },
   {
-    imgUrl: images.award03,
-    title: 'Outstanding Chef',
-    subtitle: 'Lorem ipsum dolor sit amet, consectetur.',
+    imgUrl: images.star4,
+    title: 'Chef Extraordinario',
+    subtitle: 'Las mejorar habilidades en la cocina',
   },
 ];
 

@@ -5,7 +5,7 @@ import {SubHeading, MenuItem} from '../../components';
 import './Gallery.css';
 
 
-const galleryImages = [images.gallery01, images.gallery02, images.gallery03, images.gallery04];
+const galleryImages = [images.g1, images.g2, images.g3, images.g4];
 
 const Gallery = () => { 
   
@@ -42,7 +42,7 @@ const Gallery = () => {
         <div className="app__gallery-images_container" ref={scrollRef}>
           {galleryImages.map((image, index) => (
             <div 
-              className="app__galleryimages flex__center"
+              className="app__gallery-images_card flex__center"
               key={`gallery_image-${index + 1}`}
             >
               <img src={image} alt="gallery images"/>
@@ -52,11 +52,11 @@ const Gallery = () => {
 
         <div className="app__gallery-images_arrow">
           <BsArrowLeftShort 
-            className="gallery_arrow-icon"
+            className="gallery__arrow-icon"
             onClick={() => scroll("left")} 
           />
           <BsArrowRightShort 
-            className="gallery_arrow-icon"
+            className="gallery__arrow-icon"
             onClick={() => scroll("right")} 
           />
         </div>

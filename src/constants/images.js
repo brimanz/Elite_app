@@ -1,10 +1,10 @@
 import bg from '../assets/bg.png';
 import chef from '../assets/chef.jpg';
 import bgLogo from '../assets/bgLogo.png';
-import gallery01 from '../assets/gallery01.png';
-import gallery02 from '../assets/gallery02.png';
-import gallery03 from '../assets/gallery03.png';
-import gallery04 from '../assets/gallery04.png';
+import g1 from '../assets/g1.jpg';
+import g2 from '../assets/g2.jpg';
+import g3 from '../assets/g3.jpg';
+import g4 from '../assets/g4.jpg';
 import wine from '../assets/wine.png';
 import logo from '../assets/logo.png';
 import menu from '../assets/menu.jpg';
@@ -25,10 +25,10 @@ export default {
   bg,
   chef,
   bgLogo,
-  gallery01,
-  gallery02,
-  gallery03,
-  gallery04,
+  g1,
+  g2,
+  g3,
+  g4,
   wine,
   logo,
   menu,

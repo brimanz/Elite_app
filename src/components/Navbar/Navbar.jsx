@@ -17,7 +17,7 @@ const Navbar = () => {
           <img src={images.elite} alt="logo"/>
         </div>
 
-        <ul className="app__navbar-links">
+        <ul className="app__navbar-links"> 
           <li className="p__opensans">
             <a href="#home">Home</a>
           </li>

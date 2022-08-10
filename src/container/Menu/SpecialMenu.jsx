@@ -48,10 +48,6 @@ const SpecialMenu = () => (
       </div>
 
     </div>
-
-    <div style={{marginTop: '1.5rem'}}>
-      <button type="button" className="custom__button">Ver mas</button>
-    </div>
   </div>
 );
 

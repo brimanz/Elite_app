@@ -10,7 +10,7 @@ import menu from '../assets/menu.jpg';
 import overlaybg from '../assets/overlaybg.png';
 import spoon from '../assets/spoon.svg';
 import welcome from '../assets/welcome.png';
-import coctel from '../assets/coctel.jpg';
+import contact from '../assets/contact.jpg';
 import salmon from '../assets/salmon.jpg';
 import star1 from '../assets/star1.png';
 import star2 from '../assets/star2.png';
@@ -33,7 +33,7 @@ export default {
   overlaybg,
   spoon,
   welcome,
-  coctel,
+  contact,
   salmon,
   star1,
   star2,

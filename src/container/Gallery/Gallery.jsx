@@ -35,7 +35,6 @@ const Gallery = () => {
         >
           Nuetros mejores platillos.  
         </p>
-        <a href="/" className="custom__button">Ver mas</a>
       </div>
 
       <div className="app__gallery-images">

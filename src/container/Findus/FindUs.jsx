@@ -3,7 +3,6 @@ import {images, data} from '../../constants';
 import {SubHeading, MenuItem} from '../../components';
 
 
-
 const FindUs = () => (
   <div className="app__gallery app__wrapper section__padding" id="contact">
     <div className="app__wrapper_info">
@@ -11,7 +10,7 @@ const FindUs = () => (
       <h1 
         className="headtext__cormorant"
         style={{marginBottom:"3rem"}} 
-      >Encuentranos:</h1>
+      >Visitanos:</h1>
 
       <div className="app__wrapper-content">
         <p className="p__opensans">Av. 8, entre calles 19 y 20, Mérida. Venezuela
@@ -30,7 +29,7 @@ const FindUs = () => (
     </div>
 
     <div className="app__wrapper_img">
-      <img src={images.coctel} alt="FindUs-image"/>
+      <img src={images.contact} alt="FindUs-image"/>
     </div>  
   </div>
 );

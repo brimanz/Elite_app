@@ -14,10 +14,10 @@ const AboutUs = () => (
         <h1 className="headtext__cormorant">Sobre nosotros</h1>
         <img src={images.spoon} alt="about-us" className="spoon_img"/>
         <p className="p__opensans">
-          Conoce mas detalles sobre nuestro trabajo y sobre nuestro personal
+          Somos una familia que nos apoyamos siempre, crecemos juntos
+          y aprendemos cada día, eso nos permite mejorar constantemente.
         </p>
 
-        <button type="button" className="custom__button">Mas sobre...</button>
       </div>
 
       <div className="app__aboutus-content_knife">
@@ -28,10 +28,11 @@ const AboutUs = () => (
         <h1 className="headtext__cormorant">Nuestra historia</h1>
         <img src={images.spoon} alt="about-us" className="spoon_img"/>
         <p className="p__opensans">
-          Conoce como inició este sueño de cocinar la mejor comida.
+          Nuestro inicio fue solo con tres personas, luego seguimos
+          creciendo y la pasión por la creación de nuevos platillos
+          nos permitió llegar a nuestro lugar actualmente.
         </p>
 
-        <button type="button" className="custom__button">Mas sobre...</button>
       </div>
     </div>
 

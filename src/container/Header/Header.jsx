@@ -17,7 +17,7 @@ const Header = () => (
         Los mejores platillos del mundo en un solo lugar.
       </p>
 
-      <button className="custom__button">Nuestro Menú</button>
+      <a href="#menu" className="custom__button">Nuestro Menú</a>
     </div>
 
     <div className="app__wrapper_img">
